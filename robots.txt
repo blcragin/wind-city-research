@@ -1,2 +1,4 @@
+# Index the cover sheet only.
 User-agent: *
+Allow: /$
 Disallow: /
